@@ -1,0 +1,19 @@
+id: A8A6A8258
+title: Prayer to Pema Tötreng Tsal
+type: translation
+pechas:
+- I74D1B991
+- I886983CE
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:51:41.079137
+  last_modified_at: 2023-01-04 12:51:41.079158
+  collections:
+  - Khenchen Ngawang Palzang Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I74D1B991/03D1: FB11
+  I886983CE/5FFE: FB11

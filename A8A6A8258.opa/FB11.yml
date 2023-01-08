@@ -1,0 +1,27 @@
+segment_sources:
+  I74D1B991:
+    type: origin_type
+    relation: translation
+    base: 03D1
+    lang: en
+  I886983CE:
+    type: origin_type
+    relation: translation
+    base: 5FFE
+    lang: bo
+segment_pairs:
+  5923d36c4090476c847bde9c4186f199:
+    I74D1B991: 9831970d9e7d40059b0dd37e9c884da3
+    I886983CE: baf20cc49a304e79a81985d368027906
+  d8d4ca80fe774c4aa88a44125592c751:
+    I74D1B991: abe7ce2eaa9a4f759a9fa9a79feccfc7
+    I886983CE: 51847b8ba5404a849e29a89331761ae1
+  4037939a4b064776981602474d3284b8:
+    I74D1B991: 6a5087cc254f40fd85474a42f0404a09
+    I886983CE: f09c38951f9c4a778705d9a25cc01f80
+  3fb798cfbbda483499d04d4ca4b165b8:
+    I74D1B991: 7cbf8a82159a4527bf1f0e083c848d9f
+    I886983CE: 4b3e11fff3f448e3ad5b6769af782bd3
+  22f4caaa7f674e48a3c903789e6d66e0:
+    I74D1B991: 8fd13594c8d148f4926cf0805da82217
+    I886983CE: a0e0d83232c6475db99d1840756711b9
